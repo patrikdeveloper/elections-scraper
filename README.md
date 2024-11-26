@@ -31,7 +31,9 @@ python elections_scraper.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&x
 Průběh stahování:
 
 STAHUJI DATA Z VYBRANEHO URL: https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103
+
 UKLADAM DO SOUBORU: vysledky_prostejov.csv
+
 UKONCUJI elections_scraper
 
 Částečný výstup:
