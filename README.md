@@ -4,9 +4,10 @@ Třetí projekt na Python akademii od engeta.
 Tento projekt slouží k extrahování volebních výsledků v roce 2017.
 ## Instalace knihoven
 Použité knihovny jsou uloženy v souboru requirements.txt
+
 Postup
 1. Naklonujte projekt z GitHubu.
-2. Aktivuje virtuální prostředí.
+2. Aktivujte virtuální prostředí.
 3. Nainstalujte závislosti:
 pip install -r requirements.txt
 ## Spuštění projektu
