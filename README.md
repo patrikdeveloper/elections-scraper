@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ## Spuštění projektu
 Spuštění souboru elections_scraper.py v rámci příkazového řádku vyžaduje dva povinné argumenty.
 
-python elections_scraper <odkaz-uzemního-celku> <vysledny-soubor>
+python elections_scraper <odkaz-uzemního-celku> `<vysledny-soubor>`
 
 Následně se vám stáhnou výsledky jako soubor s příponou .csv
 
